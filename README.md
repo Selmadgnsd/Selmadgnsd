@@ -36,3 +36,32 @@ const minoBits = {
   👨‍👩‍👧‍👦: "Veli kontrol paneli",
   ⭐: "Sınırsız eğlence!"
 };
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+🦄💫 Hakkımda 💫🦄
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100">
+</div>
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-28ff-4b91-a653-8072b60f9b8b.gif" width="150">
+<br><b>🍎 Öğretmen</b>
+<br>Çocukların en büyük destekçisi
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="150">
+<br><b>💻 Teknoloji Tutkunu</b>
+<br>Geleceği kodluyorum
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216655814-31c9371e-f31d-4e7a-8f7d-b1dd2de98a5c.gif" width="150">
+<br><b>🎨 Yaratıcı Ruh</b>
+<br>Hayal gücünü gerçeğe dönüştürüyorum
+</td>
+</tr>
+</table>
