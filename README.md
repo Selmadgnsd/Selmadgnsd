@@ -12,7 +12,7 @@
 
 <div align="center">
 
-## 🎮🌟 Şu An Üzerinde Çalıştığım Harika Proje! 🌟🎮
+## 🎮🌟 Şu An Üzerinde Çalıştığım Proje! 🌟🎮
 
 <table>
 <tr>
