@@ -65,3 +65,4 @@ const minoBits = {
 </td>
 </tr>
 </table>
+</div>
