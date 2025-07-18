@@ -30,6 +30,21 @@
 </tr> </table>
 <tr> <td align="center" width="33%"> <img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-28ff-4b91-a653-8072b60f9b8b.gif" width="100" alt="Öğretmen İkonu"><br> <b>🍎 Öğretmen</b><br> Çocukların en büyük destekçisi </td> <td align="center" width="33%"> <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100" alt="Teknoloji Tutkunu İkonu"><br> <b>💻 Teknoloji Tutkunu</b><br> Geleceği kodluyorum </td> <td align="center" width="33%"> <img src="https://user-images.githubusercontent.com/74038190/216655814-31c9371e-f31d-4e7a-8f7d-b1dd2de98a5c.gif" width="100" alt="Yaratıcı Ruh İkonu"><br> <b>🎨 Yaratıcı Ruh</b><br> Hayal gücünü gerçeğe dönüştürüyorum </td> </tr> </table>
 
+🛠️🌈 Teknoloji Araçlarım
+<div align="center">
+Frontend:
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,figma&theme=light" alt="Frontend Icons">
+
+Eğitim & Tasarım:
+<img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch Badge">
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Badge">
+<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD Badge">
+
+Geliştirici:
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=light" alt="Developer Icons">
+
+</div>
+
 ```javascript
 const minoBits = {
   🐰: "Sevimli karakterler",
